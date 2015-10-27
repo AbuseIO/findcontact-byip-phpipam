@@ -1,5 +1,5 @@
 {
-    "name": "abuseio/findcontact-byip-phpipam",
+    "name": "abuseio/findcontact-phpipam",
     "description": "AbuseIO module for IP lookups against phpIPAM.",
     "version": "1.0.0-dev",
     "keywords": ["laravel", "abuseio", "parser", "spamcop"],
@@ -16,17 +16,13 @@
     ],
     "support": {
         "email": "dev@abuse.io",
-        "issues": "https://github.com/AbuseIO/findcontact-byip-phpipam/issues",
+        "issues": "https://github.com/AbuseIO/findcontact-phpipam/issues",
         "irc": "irc://irc.freenode.net/abuseio",
-        "source": "https://github.com/AbuseIO/findcontact-byip-phpipam",
+        "source": "https://github.com/AbuseIO/findcontact-phpipam",
         "docs": "https://abuse.io/resources/documentation/"
     },
     "require": {
         "php": ">=5.4.0"
-    },
-    "conflict": {
-        "abuseio/findcontact-byip-nipap": "*",
-        "abuseio/findcontact-byip-custom": "*"
     },
     "autoload": {
         "psr-4": {

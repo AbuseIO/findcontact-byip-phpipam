@@ -1,7 +1,7 @@
 {
     "name": "abuseio/findcontact-phpipam",
     "description": "AbuseIO module for IP lookups against phpIPAM.",
-    "version": "1.0.0-dev",
+    "version": "1.0.1-dev",
     "keywords": ["laravel", "abuseio", "parser", "spamcop"],
     "homepage": "http://abuse.io",
     "type": "library",
